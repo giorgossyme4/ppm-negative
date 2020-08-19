@@ -1,0 +1,3 @@
+﻿  ppm.cpp
+d:\γιωργοσ συμεωνιδησ\documents\neg\neg\ppm\ppm.cpp(68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ppm.vcxproj -> D:\ΓΙΩΡΓΟΣ ΣΥΜΕΩΝΙΔΗΣ\Documents\neg\ppm\ppm_d.lib
